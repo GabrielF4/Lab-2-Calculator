@@ -1,0 +1,22 @@
+C:\Users\gabri\source\repos\Lab 2 Calculator\Lab 2 Calculator\bin\Debug\Lab 2 Calculator.exe.config
+C:\Users\gabri\source\repos\Lab 2 Calculator\Lab 2 Calculator\bin\Debug\Lab 2 Calculator.exe
+C:\Users\gabri\source\repos\Lab 2 Calculator\Lab 2 Calculator\bin\Debug\Lab 2 Calculator.pdb
+C:\Users\gabri\source\repos\Lab 2 Calculator\Lab 2 Calculator\obj\Debug\Lab 2 Calculator.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\Lab 2 Calculator\Lab 2 Calculator\obj\Debug\Lab 2 Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\source\repos\Lab 2 Calculator\Lab 2 Calculator\obj\Debug\Lab_2_Calculator.Form1.resources
+C:\Users\gabri\source\repos\Lab 2 Calculator\Lab 2 Calculator\obj\Debug\Lab_2_Calculator.Properties.Resources.resources
+C:\Users\gabri\source\repos\Lab 2 Calculator\Lab 2 Calculator\obj\Debug\Lab 2 Calculator.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\Lab 2 Calculator\Lab 2 Calculator\obj\Debug\Lab 2 Calculator.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Lab 2 Calculator\Lab 2 Calculator\obj\Debug\Lab 2 Calculator.exe
+C:\Users\gabri\source\repos\Lab 2 Calculator\Lab 2 Calculator\obj\Debug\Lab 2 Calculator.pdb
+D:\Code\Visual Studio Saves\source\repos\Lab 2 Calculator\Lab 2 Calculator\bin\Debug\Lab 2 Calculator.exe.config
+D:\Code\Visual Studio Saves\source\repos\Lab 2 Calculator\Lab 2 Calculator\bin\Debug\Lab 2 Calculator.exe
+D:\Code\Visual Studio Saves\source\repos\Lab 2 Calculator\Lab 2 Calculator\bin\Debug\Lab 2 Calculator.pdb
+D:\Code\Visual Studio Saves\source\repos\Lab 2 Calculator\Lab 2 Calculator\obj\Debug\Lab 2 Calculator.csproj.AssemblyReference.cache
+D:\Code\Visual Studio Saves\source\repos\Lab 2 Calculator\Lab 2 Calculator\obj\Debug\Lab 2 Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Code\Visual Studio Saves\source\repos\Lab 2 Calculator\Lab 2 Calculator\obj\Debug\Lab_2_Calculator.Form1.resources
+D:\Code\Visual Studio Saves\source\repos\Lab 2 Calculator\Lab 2 Calculator\obj\Debug\Lab_2_Calculator.Properties.Resources.resources
+D:\Code\Visual Studio Saves\source\repos\Lab 2 Calculator\Lab 2 Calculator\obj\Debug\Lab 2 Calculator.csproj.GenerateResource.cache
+D:\Code\Visual Studio Saves\source\repos\Lab 2 Calculator\Lab 2 Calculator\obj\Debug\Lab 2 Calculator.csproj.CoreCompileInputs.cache
+D:\Code\Visual Studio Saves\source\repos\Lab 2 Calculator\Lab 2 Calculator\obj\Debug\Lab 2 Calculator.exe
+D:\Code\Visual Studio Saves\source\repos\Lab 2 Calculator\Lab 2 Calculator\obj\Debug\Lab 2 Calculator.pdb
